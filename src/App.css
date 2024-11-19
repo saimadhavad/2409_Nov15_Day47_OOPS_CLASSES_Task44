@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&display=swap');
+
+body {
+  font-family: "Funnel Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background: linear-gradient(to right, #8e9eab, #eef2f3);
+  
+}
+.App {
+  text-align: center;
+  margin: 10px auto;
+  width: 900px;
+  background: #8e9eab;
+  border-radius: 15px;
+  padding: 10px;
+}
